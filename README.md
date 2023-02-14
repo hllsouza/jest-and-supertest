@@ -29,7 +29,7 @@ Todos os comandos abaixo são feitos no terminal
 **1** - Faça um clone do repositório e acesse o diretório criado pelo clone.
 
 ```sh
-cd jest-and-supertest
+git clone git@github.com:hllsouza/jest-and-supertest.git && cd jest-and-supertest
 ```
 
 **2** - Instale as dependências do projeto:
