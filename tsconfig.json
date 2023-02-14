@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+      "outDir": "./build",
+      "allowJs": true,
+      "module": "commonJs",
+      "target": "es2020",
+      "esModuleInterop": true
+  },
+  "include": [
+      "/**/*.ts"
+  ],
+  "exclude": [
+      "node_modules"
+  ]
+}
