@@ -58,8 +58,8 @@ As variáveis por ambiente estão definidos dentro dos arquivos [.env](env).
 
 O resultado dos testes são apresentados no terminal e em report HTML gerado com [jest-html-reporters](https://www.npmjs.com/package/jest-html-reporters).
 
-<img width="1425" alt="Captura de Tela 2023-01-19 às 09 12 12" src="https://user-images.githubusercontent.com/29413179/213440041-9db044e1-ee6e-4008-92f3-ef3f0c9d23a4.png">
-<img width="1792" alt="Captura de Tela 2023-01-19 às 09 14 49" src="https://user-images.githubusercontent.com/29413179/213440547-3cc2d431-665d-4b09-9613-875d1362c298.png">
+<img width="1792" alt="Captura de Tela 2023-02-14 às 10 46 42" src="https://user-images.githubusercontent.com/29413179/218756560-c1caac67-8ae6-4777-831b-ce79976c6f58.png">
+
 
 ### Dependências utilizadas
 | lib | descrição
